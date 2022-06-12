@@ -1,0 +1,33 @@
+{
+    "Games":
+ [
+     { 
+    
+        "Game": "[x2][Ultra Ego] Dragon Ball Rage",
+        "Description": "AutoFarm",
+        "Picture": "https://tr.rbxcdn.com/f96cdb2da239ebbd4b20f18912635cbf/150/150/Image/Jpeg",
+        "Script": "https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoDBRObfuscated.lua"
+    },
+
+    { 
+    
+        "Game": "[?? ?? UPDATE] Blox Fruits",
+        "Description": "AutoFarm, Jumppower ,AutoRaid ,Fruit Sniper, Chest ESP, Auto Boss, Player Esp",
+        "Picture": "https://tr.rbxcdn.com/477f314e4dae65b6995e45f4df7f82bc/512/512/Image/Jpeg",
+        "Script": "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"
+    },
+    
+    { 
+    
+        "Game": "Arsenal",
+        "Description": "AutoFarm",
+        "Picture": "https://tr.rbxcdn.com/30e7a02960dd315a626eee7c2ec046f1/512/512/Image/Jpeg",
+        "Script": "https://solarishub.net/script.lua"
+    }
+    
+    
+
+ ]
+    
+    
+}
