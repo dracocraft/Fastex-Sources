@@ -12,15 +12,15 @@
     { 
     
         "Game": "[UPDATE] Blox Fruits",
-        "Description": "AutoFarm, Jumppower ,AutoRaid ,Fruit Sniper, Chest ESP, Auto Boss, Player Esp",
+        "Description": "AutoFarm,Chest ESP, Auto Boss, Player Esp",
         "Picture": "https://tr.rbxcdn.com/477f314e4dae65b6995e45f4df7f82bc/512/512/Image/Jpeg",
         "Script": "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"
     },
     
     { 
     
-        "Game": "Arsenal",
-        "Description": "AutoFarm",
+        "Game": "Arsenal [OP Script]",
+        "Description": "Aimbot, Esp, WallHack And More!",
         "Picture": "https://tr.rbxcdn.com/30e7a02960dd315a626eee7c2ec046f1/512/512/Image/Jpeg",
         "Script": "https://solarishub.net/script.lua"
     }
