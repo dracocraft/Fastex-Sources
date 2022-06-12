@@ -11,7 +11,7 @@
 
     { 
     
-        "Game": "[?? ?? UPDATE] Blox Fruits",
+        "Game": "[UPDATE] Blox Fruits",
         "Description": "AutoFarm, Jumppower ,AutoRaid ,Fruit Sniper, Chest ESP, Auto Boss, Player Esp",
         "Picture": "https://tr.rbxcdn.com/477f314e4dae65b6995e45f4df7f82bc/512/512/Image/Jpeg",
         "Script": "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"
