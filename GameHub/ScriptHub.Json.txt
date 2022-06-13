@@ -23,24 +23,7 @@
         "Description": "Aimbot, Esp, WallHack And More!",
         "Picture": "https://tr.rbxcdn.com/30e7a02960dd315a626eee7c2ec046f1/512/512/Image/Jpeg",
         "Script": "https://solarishub.net/script.lua"
-    },
-    
-    { 
-    
-        "Game": "Prison Life (Cars fixed!)",
-        "Description": "Aimbot, Esp, WallHack And More!",
-        "Picture": "https://tr.rbxcdn.com/20f12349810523d94b8cdc290f6a7d80/150/150/Image/Jpeg",
-        "Script": "https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife"
-    },
-    
-     { 
-    
-        "Game": "Project Lazarus: ZOMBIS",
-        "Description": "Aimbot, Esp, WallHack And More!",
-        "Picture": "https://tr.rbxcdn.com/b329b351f56e31a2dd79dee912fc651a/150/150/Image/Jpeg",
-        "Script": "https://raw.githubusercontent.com/Bluntman420n/fucns/main/FUCKYOUCUNT.BLUNT"
     }
-    
     
 
  ]
