@@ -22,7 +22,7 @@
         "Game": "Arsenal [OP Script]",
         "Description": "Aimbot, Esp, WallHack And More!",
         "Picture": "https://tr.rbxcdn.com/30e7a02960dd315a626eee7c2ec046f1/512/512/Image/Jpeg",
-        "Script": "https://solarishub.net/script.lua"
+        "Script": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
     },
     
    
