@@ -38,7 +38,7 @@
         "Game": "Project Lazarus: ZOMBIS",
         "Description": "Aimbot, Esp, WallHack And More!",
         "Picture": "https://tr.rbxcdn.com/b329b351f56e31a2dd79dee912fc651a/150/150/Image/Jpeg",
-        "Script": "https://raw.githubusercontent.com/Bluntman420n/fucns/main/FUCKYOUCUNT.BLUNT""
+        "Script": "https://raw.githubusercontent.com/Bluntman420n/fucns/main/FUCKYOUCUNT.BLUNT"
     }
     
     
